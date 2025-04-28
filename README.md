@@ -11,7 +11,7 @@ To use this app, clone the repository and run the Python script `main.py`.
 
 ### Cloning the repository
 ```bash
-git clone https://github.com/s3lectt/system-monitor.git 
+git clone https://github.com/s3lectt/system-monitor.git  
 ```
 
 ## Installing dependencies
